@@ -142,8 +142,6 @@ Story ID,Prediction,Rationale
 ├── requirements.txt                  # Python dependencies
 ├── novel_mapping.json.example        # Example mapping file
 ├── README.md                         # This file
-├── README_REPRODUCIBLE.md           # Detailed reproducible guide
-├── RUN_EXAMPLE.md                    # CLI usage examples
 └── .vscode/                          # VS Code configuration
     ├── launch.json                   # Debug configurations
     └── settings.json                 # Python settings
